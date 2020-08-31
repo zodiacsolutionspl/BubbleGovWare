@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "shoot-bubble",
+"dataUrl": "Bubble.data.unityweb",
+"wasmCodeUrl": "Bubble.wasm.code.unityweb",
+"wasmFrameworkUrl": "Bubble.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
